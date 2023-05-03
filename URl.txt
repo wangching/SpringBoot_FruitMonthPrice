@@ -1,7 +1,7 @@
 Fruit Month Price
 http://localhost:8000/fruit-month-price/fruit/Banana/month/Jul
 
-DB
+DB Fruit Month Price
 http://localhost:8000/h2-console/
 
 Fruit Total Price
